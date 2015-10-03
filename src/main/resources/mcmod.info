@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "SubBasement",
+      "name": "Sub-Basement",
+      "description": "Disables block placement by y-level",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authors": ["hilburn"],
+      "credits": "",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]
